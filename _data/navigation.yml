@@ -1,0 +1,22 @@
+- name: Home
+  url: /
+- name: About
+  subfolderitems:
+    - page: ASEAN Games
+      url: /
+    - page: Committee
+      url: /
+- name: Affiliations
+  subfolderitems:
+    - page: Partners
+      url: /
+    - page: Sponsors
+      url: /
+- name: Games
+  url: /
+- name: Merchandise
+  url: /
+- name: Registration
+  url: /
+- name: Contact Us
+  url: /
