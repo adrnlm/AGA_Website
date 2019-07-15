@@ -3,7 +3,7 @@
 - name: About
   subfolderitems:
     - page: ASEAN Games
-      url: /
+      url: /about.html
     - page: Committee
       url: /
 - name: Affiliations
