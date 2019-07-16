@@ -3,20 +3,20 @@
 - name: About
   subfolderitems:
     - page: ASEAN Games
-      url: /html/about.html
+      url: /about/
     - page: Committee
-      url: /html/committee.html
+      url: /committee/
 - name: Affiliations
   subfolderitems:
     - page: Partners
-      url: /html/partners.html
+      url: /partners/
     - page: Sponsors
-      url: /html/sponsors.html
+      url: /sponsors/
 - name: Games
-  url: /html/games.html
+  url: /games/
 - name: Merchandise
   url: / # to be set
 - name: Registration
-  url: /html/registration.html
+  url: /registration/
 - name: Contact Us
-  url: /html/contactUs.html
+  url: /contactUs/
