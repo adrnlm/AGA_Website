@@ -17,6 +17,6 @@
 - name: Merchandise
   url: /
 - name: Registration
-  url: /
+  url: /registration.html
 - name: Contact Us
   url: /contactUs.html
