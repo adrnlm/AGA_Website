@@ -13,9 +13,9 @@
     - page: Sponsors
       url: /html/sponsors.html
 - name: Games
-  url: /
+  url: /html/games.html
 - name: Merchandise
-  url: /
+  url: / # to be set
 - name: Registration
   url: /html/registration.html
 - name: Contact Us
