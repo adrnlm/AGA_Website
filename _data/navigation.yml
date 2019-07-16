@@ -9,7 +9,7 @@
 - name: Affiliations
   subfolderitems:
     - page: Partners
-      url: /
+      url: /partners.html
     - page: Sponsors
       url: /
 - name: Games
