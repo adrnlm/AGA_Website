@@ -70,3 +70,22 @@ body {
     padding: 3%;
   }
 }
+
+.social-ig{
+  padding: 0px 40px
+}
+
+.Contact-Social{
+  max-width: 100%;
+  height: auto;
+  width: auto; 
+  display: flex;
+}
+
+.Hosted-Games h2{
+text-align: center;
+}
+
+.Location h2{
+  text-align: center;
+}
