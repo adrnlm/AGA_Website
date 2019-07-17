@@ -2,25 +2,31 @@
   <a class="navbar-brand" href="/">
     <img src="/assets/images/brand.png" alt="ASEAN Games Australia 2019 logo" height="50px">
   </a>
-  <ul class="navbar-nav">
-    {% for item in site.data.navigation %}
-    {% if item.subfolderitems %}
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
-        aria-haspopup="true" aria-expanded="false">
-        {{ item.name }}
-      </a>
-      <div class="dropdown-menu" aria-labelledby="navbarDropDownMenuLink">
-        {% for entry in item.subfolderitems %}
-        <a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a>
-        {% endfor %}
-      </div>
-    </li>
-    {% else %}
-    <li class="nav-item">
-      <a class="nav-link" href="{{ item.url }}">{{ item.name }}</a>
-    </li>
-    {% endif %}
-    {% endfor %}
-  </ul>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      {% for item in site.data.navigation %}
+      {% if item.subfolderitems %}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle w-100" href="#" id="navbarDropdownMenuLink" role="button"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{ item.name }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropDownMenuLink">
+          {% for entry in item.subfolderitems %}
+          <a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a>
+          {% endfor %}
+        </div>
+      </li>
+      {% else %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ item.url }}">{{ item.name }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </nav>
