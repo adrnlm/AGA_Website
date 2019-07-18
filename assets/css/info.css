@@ -1,3 +1,6 @@
+
+/* ++++++++++++++ NAVBAR ++++++++++ */
+
 .navbar {
   box-shadow: 2px 2px 2px 1px rgba(140, 140, 140, 0.5);
 }
@@ -13,14 +16,6 @@
 
 .navbar li {
   margin: 0px 19px;
-}
-
-.navbar ul {
-  float: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .navbar ul li a {
@@ -57,13 +52,16 @@
 }
 
 @media only screen and (min-width: 900px) {
-  .content {
-    background-color: rgba(255, 255, 255, 0.712);
-    width: 80%;
-    margin: 5% auto;
-    padding: 3%;
+  .navbar ul {
+    float: left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
+
+/* +++++++++++ BODY ++++++++++++++++ */
 
 body {
     margin: auto;
@@ -73,9 +71,16 @@ body {
     background-image: url(/assets/images/background.png);
 }
 
- br{
-      display: none;
-    }
+.content {
+  background-color: rgba(255, 255, 255, 0.712);
+  width: 80%;
+  margin: 5% auto;
+  padding: 3%;
+}
+
+br{
+    display: none;
+  }
 
 h5 {
   font-style: italic;

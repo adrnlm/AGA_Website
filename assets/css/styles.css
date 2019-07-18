@@ -1,8 +1,5 @@
-body {
-  line-height: 1.6;
-  background-color: rgb(43, 67, 83);
-  background-image: url(/assets/images/background.png);
-}
+
+/* ++++++++++++++ NAVBAR ++++++++++ */
 
 .navbar {
   box-shadow: 2px 2px 2px 1px rgba(140, 140, 140, 0.5);
@@ -55,13 +52,6 @@ body {
 }
 
 @media only screen and (min-width: 900px) {
-  .content {
-    background-color: rgba(255, 255, 255, 0.829);
-    width: 80%;
-    margin: 5% auto;
-    padding: 3%;
-  }
-
   .navbar ul {
     float: left;
     position: absolute;
@@ -69,6 +59,25 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+}
+
+/* +++++++++++ BODY ++++++++++++++++ */
+
+body {
+  line-height: 1.6;
+  background-color: rgb(43, 67, 83);
+  background-image: url(/assets/images/background.png);
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.829);
+    width: 80%;
+    margin: 5% auto;
+    padding: 3%;
+}
+
+.Location h2{
+  text-align: center;
 }
 
 .social-ig{
@@ -86,6 +95,20 @@ body {
 text-align: center;
 }
 
-.Location h2{
+/* +++++++++++ FOOTER ++++++++++++++++ */
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background-color: #efefefc7;
   text-align: center;
 }
+
+footer p {
+    margin: 0px;
+    font-size: 13px;
+  }
+
