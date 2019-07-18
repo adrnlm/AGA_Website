@@ -100,28 +100,55 @@ br{
   text-align: center;
 }
 
-@media only screen and (min-width: 900px) {
-  .container {
+.Gamespage h2{
+  text-align: center;
+}
+
+/* @media only screen and (min-width: 900px) { */
+  .container1 {
     margin: 15px 0;
-    padding-left: 30%;
+    padding-left: 20%;
     position: relative;
     width: 100%;
   }
 
+  .container2 {
+    margin: 15px 0;
+    padding-left: 15%;
+    position: relative;
+    width: 100%;
+  }
+
+  .row {
+    margin: 30px 0;
+  }
+
+  .container a {
+    position: relative;
+    float: left;
+  }
+
+/* } */
+
+@media only screen and (max-width: 899px) {
+  .container1 {
+    margin: 15px 0;
+    padding-left: 6%;
+    position: relative;
+    width: 100%;
+  }
+
+  .container2 img {
+    height: 50px;
+    width: 50px;
+  }
+
+  .row {
+    margin: 30px 0;
+  }
+
+  
 }
-
-
-.row {
-  margin: 30px 0;
-}
-
-
-.container a {
-  position: relative;
-  float: left;
-  /* padding-right: 27%;   */
-}
-
 
 
 
