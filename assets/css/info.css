@@ -84,15 +84,18 @@ body {
 }
 
 
-br{
+br {
     display: none;
-  }
+}
 
 h5 {
   font-style: italic;
   color: rgb(99, 99, 99);
 }
 
+li {
+  list-style: none;
+}
 /* +++++++++++ FOOTER ++++++++++++++++ */
 
 footer {

@@ -68,12 +68,9 @@ body {
   background-color: rgb(43, 67, 83);
   background-image: url(/assets/images/background.png);
 }
-
-
 br{
     display: none;
   }
-
 .content {
     background-color: rgba(255, 255, 255, 0.829);
     width: 80%;
@@ -81,15 +78,10 @@ br{
     padding: 3%;
 }
 
-.Location h2{
-  text-align: center;
-  margin: 30px 0;
-}
-
+/* ContactUs page social container  */
 .social-ig{
   padding: 0px 40px
 }
-
 .Contact-Social {
   max-width: 100%;
   height: auto;
@@ -97,26 +89,36 @@ br{
   display: flex;
 }
 
-.Games h2{
+/* Game icon container */
+.Games {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.hg{
   text-align: center;
 }
-
 .Gamespage h2{
   text-align: center;
 }
-
 .container {
-  margin: 15px 0;
-  padding-left: 30%;
-  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
 }
-
 .row {
-  margin: 30px 0;
+  margin: 50px 0;
+}
+.col  {
+  margin: 30px 50px;
 }
 
-
+/* Homepage Date and Venue */
+.Location h2{
+  text-align: center;
+  margin: 30px 0;
+}
 .Location p {
 background-color: rgba(252, 222, 52, 0.932);
 width: 30%;
@@ -127,30 +129,35 @@ color: black;
 font-size: 200%;
 }
 
+/* Register container */
 .register {
   margin: 10px 0;
 }
-
 .register p{
   padding-left: 19%;
   font-weight: bold;
 }
 
 @media only screen and (max-width: 899px) {
+  /* Games icon container */
   .container {
-    margin: 15px 0;
-    padding-left: 10%;
-    position: relative;
+    /* margin: 15px 0; */
+    padding-left: 13%;
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
   }
-
   .container img {
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
   }
-
   .row {
-    margin: 30px 0;
+    margin: 10px 0;
+  }
+  .col {
+    margin: 0 0px;
   }
 
   .Location p {
@@ -162,12 +169,14 @@ font-size: 200%;
     color: black;
     font-size: 100%;
   }
-  
+
+  /* Register  */
   .register img {
     height: 100px;
     width: 100px;
   }
 
+  /* Google Map */
   .map iframe{
     width: 50%;
   }
