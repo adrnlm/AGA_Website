@@ -167,6 +167,11 @@ font-size: 200%;
     height: 100px;
     width: 100px;
   }
+
+  .map iframe{
+    width: 50%;
+  }
+
 }
 
 
@@ -175,25 +180,13 @@ font-size: 200%;
 /* +++++++++++ FOOTER ++++++++++++++++ */
 
 footer {
-  position: fixed;
+  position: relative;
   height: 50px;
   bottom: 0;
   width: 100%;
   padding: 1rem;
   background-color: #efefefc7;
   text-align: center;
-}
-
-@media only screen and (max-width: 899px){
-  footer {
-    position: relative;
-    height: 50px;
-    bottom: 0;
-    width: 100%;
-    padding: 1rem;
-    background-color: #efefefc7;
-    text-align: center;
-  }
 }
 
 footer p {
