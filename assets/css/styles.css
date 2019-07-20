@@ -78,6 +78,28 @@ br{
     padding: 3%;
 }
 
+/* Sports */
+.sports-info p {
+  font-size: 20px;
+}
+.button {
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(69, 207, 73);
+  font-size: 19px;
+  color: white;
+  font-weight: bold;
+  padding: 17px 40px;
+  border-radius: 8px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: rgb(145, 238, 148); /* Green */
+  color: black;
+}
+
 /* ContactUs page social container  */
 .social-ig{
   padding: 0px 40px
@@ -133,17 +155,33 @@ font-size: 200%;
 .register {
   margin: 10px 0;
 }
+.register col {
+  margin: 50% 0;
+}
 .register p{
-  padding-left: 19%;
+  /* padding-left: 19%; */
+  color: black;
   font-weight: bold;
+  font-size: 30px;
+}
+.img-with-text {
+    text-align: center;
+    width: [width of img];
+}
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Map */
+.map {
+  margin: 2% 0;
 }
 
 @media only screen and (max-width: 899px) {
   /* Games icon container */
   .container {
-    /* margin: 15px 0; */
     padding-left: 13%;
-    /* position: relative; */
     display: flex;
     justify-content: center;
     align-items: center;
