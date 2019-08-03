@@ -1,3 +1,7 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
 /* ++++++++++++++ NAVBAR ++++++++++ */
 
 .navbar {
@@ -96,9 +100,18 @@ br {
 }
 
 /* ContactUs page social container  */
-.social-ig {
-  padding: 0px 40px;
+.social-icons {
+  height: 100px;
+  width: 100px;
+  padding: 10px; }
+
+@media only screen and (min-width: 900px) {
+  .social-icons {
+    height: 150px;
+    width: 150px;
+  }
 }
+
 .Contact-Social {
   max-width: 100%;
   height: auto;
@@ -218,6 +231,8 @@ br {
 /* +++++++++++ FOOTER ++++++++++++++++ */
 
 footer {
+  position: absolute;
+  bottom: 0;
   width: 100%;
   padding: 1rem;
   background-color: #efefefc7;
