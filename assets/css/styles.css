@@ -1,4 +1,3 @@
-
 /* ++++++++++++++ NAVBAR ++++++++++ */
 
 .navbar {
@@ -6,8 +5,6 @@
 }
 
 .navbar a {
-  float: left;
-  text-align: center;
   padding: 2px 10px;
   text-decoration: none;
   font-size: 19px;
@@ -51,19 +48,9 @@
   height: 100%;
 }
 
-@media only screen and (min-width: 900px) {
-  .navbar ul {
-    float: left;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-}
-
 /* +++++++++++ BODY ++++++++++++++++ */
 
-.center{
+.center {
   display: block;
   margin-top: 2%;
   margin-left: auto;
@@ -76,14 +63,14 @@ body {
   background-color: rgb(68, 92, 109);
   background-image: url(/assets/images/background.png);
 }
-br{
-    display: none;
-  }
+br {
+  display: none;
+}
 .content {
-    background-color: rgba(255, 255, 255, 0.829);
-    width: 80%;
-    margin: 5% auto;
-    padding: 3%;
+  background-color: rgba(255, 255, 255, 0.829);
+  width: 80%;
+  margin: 5% auto;
+  padding: 3%;
 }
 
 /* Sports */
@@ -109,8 +96,8 @@ br{
 }
 
 /* ContactUs page social container  */
-.social-ig{
-  padding: 0px 40px
+.social-ig {
+  padding: 0px 40px;
 }
 .Contact-Social {
   max-width: 100%;
@@ -125,10 +112,10 @@ br{
   justify-content: center;
   align-content: center;
 }
-.hg{
+.hg {
   text-align: center;
 }
-.Gamespage h2{
+.Gamespage h2 {
   text-align: center;
 }
 .container {
@@ -140,23 +127,23 @@ br{
 .row {
   margin: 50px 0;
 }
-.col  {
+.col {
   margin: 30px 50px;
 }
 
 /* Homepage Date and Venue */
-.Location h2{
+.Location h2 {
   text-align: center;
   margin: 30px 0;
 }
 .Location p {
-background-color: rgba(252, 222, 52, 0.932);
-width: 30%;
-margin: 10px auto;
-padding: 3%;
-text-align: center;
-color: black;
-font-size: 200%;
+  background-color: rgba(252, 222, 52, 0.932);
+  width: 30%;
+  margin: 10px auto;
+  padding: 3%;
+  text-align: center;
+  color: black;
+  font-size: 200%;
 }
 
 /* Register container */
@@ -166,19 +153,19 @@ font-size: 200%;
 .register col {
   margin: 50% 0;
 }
-.register p{
+.register p {
   /* padding-left: 19%; */
   color: black;
   font-weight: bold;
   font-size: 30px;
 }
 .img-with-text {
-    text-align: center;
-    width: [width of img];
+  text-align: center;
+  width: [width of img];
 }
 .img-with-text img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Map */
@@ -223,21 +210,14 @@ font-size: 200%;
   }
 
   /* Google Map */
-  .map iframe{
+  .map iframe {
     width: 50%;
   }
-
 }
-
-
-
 
 /* +++++++++++ FOOTER ++++++++++++++++ */
 
 footer {
-  position: relative;
-  height: 50px;
-  bottom: 0;
   width: 100%;
   padding: 1rem;
   background-color: #efefefc7;
@@ -245,6 +225,6 @@ footer {
 }
 
 footer p {
-    margin: 0px;
-    font-size: 14px;
-  }
+  margin: 0px;
+  font-size: 14px;
+}
