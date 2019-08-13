@@ -64,6 +64,13 @@ html {
   box-shadow: 2px 2px 2px 1px rgba(140, 140, 140, 0.5);
 }
 
+.video {
+  position:relative;
+  padding-bottom:50%;
+  height:0;
+  overflow:hidden;
+}
+
 body {
   line-height: 1.6;
   background-color: rgb(228, 228, 228);
