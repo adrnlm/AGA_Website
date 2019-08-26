@@ -1,8 +1,8 @@
 ---
-title: Basketball
+title: Ultimate Frisbee
 layout: default
-modal-id: 8
-img: roundicons.png
+modal-id: 7
+img: UltimateFrisbee.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014

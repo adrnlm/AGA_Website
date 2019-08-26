@@ -1,15 +1,9 @@
 ---
 title: Badminton
-subtitle: Website Design
 layout: default
 modal-id: 1 
-date: 2014-07-17
-img: escape.png
-thumbnail: Badminton.png 
-alt: image-alt
-project-date: April 2014
+img: Badminton.png
 client: Start Bootstrap
-category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

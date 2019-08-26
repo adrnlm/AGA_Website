@@ -1,15 +1,9 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Basketball
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
+modal-id: 2
+img: Basketball.png
 client: Start Bootstrap
-category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

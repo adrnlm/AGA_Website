@@ -1,9 +1,10 @@
 ---
-title: Basketball
+title: Table Tennis
 layout: default
-modal-id: 7
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 5
+date: 2014-07-14
+img: TableTennis.png
+thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

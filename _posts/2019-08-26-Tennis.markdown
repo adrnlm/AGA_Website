@@ -1,8 +1,8 @@
 ---
-title: Basketball
+title: Tennis
 layout: default
 modal-id: 6
-img: roundicons.png
+img: Tennis.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
