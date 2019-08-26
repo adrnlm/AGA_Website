@@ -440,6 +440,10 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+#sports .row.volunteer-text {
+    text-align: center;
+}
+
 @media(min-width:767px) {
     #sports .portfolio-item {
         margin: 0 0 30px;
