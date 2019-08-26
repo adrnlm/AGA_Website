@@ -1,11 +1,11 @@
 ---
-title: Escape
+title: Badminton
 subtitle: Website Design
 layout: default
 modal-id: 1 
 date: 2014-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: Badminton.png 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
