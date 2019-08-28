@@ -757,7 +757,22 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content p {
+    color: black;
     margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content .modal-body .modal {
+    text-align: center;
+}
+
+.modal table th {
+    padding: 1rem;
+    border-bottom: 1px solid black;
+    
+}
+
+.modal table td {
+    padding: 1rem;
 }
 
 .portfolio-modal .modal-content p.item-intro {
