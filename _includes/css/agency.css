@@ -294,9 +294,8 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     color: #fff;
     margin-bottom: 10px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
-    font-style: italic;
     line-height: 22px;
 }
 
@@ -321,9 +320,8 @@ header .intro-text .page-scroll {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
-        font-style: italic;
         line-height: 40px;
     }
 
@@ -824,6 +822,10 @@ ul.social-buttons li a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.portfolio-modal .btn {
+    margin-top: 9%;
 }
 
 ::-moz-selection {
