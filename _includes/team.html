@@ -1,27 +1,50 @@
 <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About Our Team</h2>
-                    <h3 class="section-subheading text-muted">ASEAN Games Australia (AGA) is an annual sporting festival that aims to gather all lovers of sport. Through AGA, we hope to create new friendships and promote camaraderie between individuals from different cultural backgrounds, thereby creating greater cultural understanding between the ASEAN communities. Individuals of different athletic skill with the same passion and interest in sports can gather together to have fun and enjoy a friendly game or two. AGA is a perfect way to showcase your sportsmanship and teamwork alongside your ASEAN family, a home away from home. AGA also aims to nurture future leaders of ASEAN, one who strives for holistic achievement and is able to develop interpersonal skills and teamwork. With our extensive sponsors and partners, lucky draws with attractive prizes can be won too. Not to mention, cash prizes to be won for top 3 players of each sport!</h3>
-                </div>
-            </div>
-            <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.JPG" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
+<section id="team" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">About Our Team</h2>
+        <h3 class="section-subheading text-muted">
+          ASEAN Games Australia (AGA) is an annual sporting festival that aims
+          to gather all lovers of sport. Through AGA, we hope to create new
+          friendships and promote camaraderie between individuals from different
+          cultural backgrounds, thereby creating greater cultural understanding
+          between the ASEAN communities. Individuals of different athletic skill
+          with the same passion and interest in sports can gather together to
+          have fun and enjoy a friendly game or two. AGA is a perfect way to
+          showcase your sportsmanship and teamwork alongside your ASEAN family,
+          a home away from home. AGA also aims to nurture future leaders of
+          ASEAN, one who strives for holistic achievement and is able to develop
+          interpersonal skills and teamwork. With our extensive sponsors and
+          partners, lucky draws with attractive prizes can be won too. Not to
+          mention, cash prizes to be won for top 3 players of each sport!
+        </h3>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in site.people %}
+      <!-- Change it to sm-3 if you want width of 4 -->
+      <div class="col-sm-3">
+        <div class="team-member">
+          <img
+            src="img/team/{{ member.pic }}.JPG"
+            class="img-responsive img-circle"
+            alt=""
+          />
+          <h4>{{ member.name }}</h4>
+          <p class="text-muted">{{ member.position }}</p>
         </div>
-    </section>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <p class="large text-muted">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
+          laboriosam veritatis, quos non quis ad perspiciatis, totam corporis
+          ea, alias ut unde.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
