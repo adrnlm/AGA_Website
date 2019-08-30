@@ -4,4 +4,132 @@
 
   - name: Adrian Lim
     pic: ITD
-    position: Lead Designer
+    position: IT Director
+
+  - name: Rina Abel
+    pic: HR_1
+    position: HR Director
+
+  - name: Shirlene
+    pic: HR_2
+    position: HR Officer
+
+  - name: Madellin
+    pic: HR_3
+    position: HR Officer
+
+  - name: Pei Lin
+    pic: HR_4
+    position: HR Officer
+
+  - name: Shirlene
+    pic: HR_5
+    position: HR Officer
+
+  - name: Su
+    pic: HR_6
+    position: HR Officer
+
+  - name: Kenneth
+    pic: OP_1
+    position: OP Director
+
+  - name: Amanda Lim
+    pic: OP_2
+    position: OP Officer
+
+  - name: Baining
+    pic: OP_3
+    position: OP Officer
+
+  - name: Cindy
+    pic: OP_4
+    position: OP Officer
+
+  - name: Renaldi
+    pic: OP_5
+    position: OP Officer
+
+  - name: Hana
+    pic: CM_1
+    position: CM Director
+
+  - name: Tanya
+    pic: CM_2
+    position: CM Officer
+
+  - name: Tara
+    pic: CM_3
+    position: CM Officer
+
+  - name: Cheryl
+    pic: CM_4
+    position: CM Officer
+
+  - name: Ella
+    pic: CM_5
+    position: CM Officer
+
+  - name: Nick
+    pic: B_01
+    position: Badminton Director
+
+  - name: Khai Hang Thai
+    pic: B_02
+    position: Badminton Officer
+
+  - name: Yashasvi
+    pic: B_03
+    position: Badminton Officer
+
+  - name: Jason
+    pic: B_04
+    position: Badminton Officer
+
+  - name: Alex
+    pic: TT_01
+    position: Table Tennis Director
+
+  - name: Fransisca
+    pic: TT_02
+    position: Table Tennis Officer
+
+  - name: Jorel Basangan
+    pic: TT_03
+    position: Table Tennis Officer
+
+  - name: Yu Tong
+    pic: T_01
+    position: Tennis Director
+
+  - name: Sophia
+    pic: T_02
+    position: Tennis Officer
+
+  - name: Mike Chan
+    pic: T_03
+    position: Tennis Officer
+
+  - name: Akmal Syahmi
+    pic: F_01
+    position: Futsal Director
+
+  - name: Athesvara
+    pic: F_02
+    position: Futsal Officer
+
+  - name: Heon Su
+    pic: F_03
+    position: Futsal Officer
+
+  - name: Jess
+    pic: VD
+    position: Volleyball Director
+
+  - name: Rachael
+    pic: ND
+    position: Netball Director
+
+  - name: Lee Yi Lok
+    pic: FD
+    position: Frisbee Director
