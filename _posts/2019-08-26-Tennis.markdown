@@ -5,12 +5,12 @@ modal-id: 6
 img: Tennis.png
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.505067532209!2d145.14698441597156!3d-37.895255746485034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad61558154943cd%3A0xbc05c34faa2e857!2sNotting%20Hill%20%2F%20Pinewood%20Tennis%20Club!5e0!3m2!1sen!2sau!4v1566913032660!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 link: https://docs.google.com/forms/d/e/1FAIpQLSeNuK-pXLRGNW9ecEZP1u_0RXhF1S7GuGLxBDsFaSpd9Zgm3g/viewform
-
 ---
 
 ### Dates
 
 ---
+
 <center>
     <table>
         <tr>
@@ -24,16 +24,19 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSeNuK-pXLRGNW9ecEZP1u_0RXhF1S7GuG
     </table>
 </center>
 
-### Ticket 
+### Ticket
 
 ---
-$ 22
+
+\$ 22
 per person
 
 ### Prizes
 
 ---
+
 **Male Singles**
+
 <center>
     <table>
         <tr>
@@ -47,9 +50,10 @@ per person
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 **Female Singles**
+
 <center>
     <table>
         <tr>
@@ -63,9 +67,10 @@ per person
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 **Male Doubles**
+
 <center>
     <table>
         <tr>
@@ -79,9 +84,10 @@ per person
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 **Female Doubles**
+
 <center>
     <table>
         <tr>
@@ -95,9 +101,10 @@ per person
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 **Mixed Doubles**
+
 <center>
     <table>
         <tr>

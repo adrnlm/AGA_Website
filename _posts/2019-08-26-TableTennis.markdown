@@ -4,12 +4,13 @@ layout: default
 modal-id: 5
 img: TableTennis.png
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3150.7329547276913!2d144.9593195159704!3d-37.84313714349901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad667e27fe5b65b%3A0x7da260ae352a6392!2sMelbourne%20Sports%20Centres%20-%20MSAC!5e0!3m2!1sen!2sau!4v1566912398763!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></br>
-link: https://docs.google.com/forms/d/e/1FAIpQLSdYQ5g78-Xu1eeaYWRUbl7Tssrse6Di73jBTi3QeVjaZFYV1A/viewform   
+link: https://docs.google.com/forms/d/e/1FAIpQLSdYQ5g78-Xu1eeaYWRUbl7Tssrse6Di73jBTi3QeVjaZFYV1A/viewform
 ---
 
 ### Dates
 
 ---
+
 <center>
     <table>
         <tr>
@@ -23,18 +24,21 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSdYQ5g78-Xu1eeaYWRUbl7Tssrse6Di73
     </table>
 </center>
 
-### Ticket 
+### Ticket
 
 ---
-$ 17
+
+\$ 17
 per person
 
 ### Prizes
 
 ---
-**Open Singles**  
+
+**Open Singles**
 
 _Division A_
+
 <center>
     <table>
         <tr>
@@ -50,9 +54,10 @@ _Division A_
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 _Division B_
+
 <center>
     <table>
         <tr>
@@ -68,9 +73,10 @@ _Division B_
     </table>
 </center>
 
-&nbsp;  
+&nbsp;
 
 _Division C_
+
 <center>
     <table>
         <tr>
@@ -87,9 +93,10 @@ _Division C_
 </center>
 
 &nbsp;  
-&nbsp;  
+&nbsp;
 
 **Mixed Doubles**
+
 <center>
     <table>
         <tr>

@@ -10,6 +10,7 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSc8YdnoQ7hXUr5CnTDkhe5lr6y4VDmFU8
 ### Dates
 
 ---
+
 <center>
     <table>
         <tr>
@@ -23,15 +24,17 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSc8YdnoQ7hXUr5CnTDkhe5lr6y4VDmFU8
     </table>
 </center>
 
-### Ticket 
+### Ticket
 
 ---
-$ 17
+
+\$ 17
 per person
 
 ### Prizes
 
 ---
+
 <center>
     <table>
         <tr>

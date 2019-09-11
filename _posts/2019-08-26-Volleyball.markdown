@@ -10,6 +10,7 @@ link: https://docs.google.com/forms/d/1tyo7foNpx5RTIE3YrU_rqorPU6jo4qtZnN0BSYD89
 ### Dates
 
 ---
+
 _Games will be played based on 1 set of 30 pts_
 
 <center>
@@ -19,22 +20,25 @@ _Games will be played based on 1 set of 30 pts_
             <th><b>SUNDAY <i>15 Sept</i></b></th>
         </tr>
         <tr>
-            <td> 11pm - 4pm</td>
+            <td> 12pm - 4pm</td>
             <td> 1pm - 5pm</td>
         </tr>
     </table>
 </center>
 
-### Ticket 
+### Ticket
 
 ---
-$ 17
+
+\$ 17
 per person
 
 ### Prizes
 
 ---
+
 **8 Teams**
+
 <center>
     <table>
         <tr>
